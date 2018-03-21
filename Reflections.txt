@@ -1,0 +1,19 @@
+I've learned a lot from this course: Grow with Google Challenge Scholarship: Front-End Web Dev.
+
+What new skills have you learned?
+
+I have learned the basic of html and css incorporate with Javascript to build interactive web application and advanced programming skills. I also learned some new techniques of designing and developing web application as well as how to document a completed project.
+
+What has been easy?
+
+This Grow with Google Challenge Scholarship: Front-End Web Dev has been a time-consuming, but fun learning concepts and practices, just followed the guides and practiced it. These quizzes are good assessment of new skills and check knowledge. In these lessons I have easily learned included in these programs, videos, and awesome discussions are so useful for both mentors and students. I really enjoy having the Forums and Slack to refer to, as well as the other lesson videos, guides, references, and exercises.
+
+What has been difficult?
+
+These jQuery functions, DOM, Objects in Javascript were not previously in my belts. Solving a complicated object quiz was a first too challenge, have difficulty naming variables, made numerous minor syntax mistakes. All of my programming previously was done with web editing software, the functions and process inside of program was an epiphany. BUT, thank you Udacity and Udacity Community provided great lectures with videos, helpful websites and resources, and I'm going to review with these and practice functions in the next few months.
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+I am not just dive into coding, I need to think, careful design prototype and testing components throughout the developing, keeping reading, researching, and engaging are keys for myself. In additional this community of developers around the globe was a great way of staying encouraged, even when the assignments were challenging, but it's fun. Thank you for entertains from Slacks to encourage getting in and stay on top of assignments, but the key is taking accountability. The mentors and other developers helped us all to get better concepts and ideas to start program and use the tools and resource for learning. These lessons are excellent in enhancing the programming skills we work towards in our Grow with Google course. Thanks, Udacity Community!! 
+
+Find my code here: https://codepen.io/toan_b/full/wmMjOB
